@@ -1,0 +1,29 @@
+.container{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.demo{
+    background-color: skyblue;
+    padding: 30px;
+    margin: 25px;
+    height: 300px;
+    width: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90px;
+    text-align: center;
+    cursor: pointer;
+}
+.demo1{
+    background-color: skyblue;
+    padding: 30px;
+    margin: 25px;
+    height: 300px;
+    width: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90px;
+    text-align: center;
+    cursor: pointer;
+}

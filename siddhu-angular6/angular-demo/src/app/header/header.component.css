@@ -1,0 +1,23 @@
+nav {
+  background-color: blue;
+  padding: 35px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+  padding: 10px 40px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+ul li:hover {
+  background-color: blueviolet;
+}
